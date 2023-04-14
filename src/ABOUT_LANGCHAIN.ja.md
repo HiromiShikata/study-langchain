@@ -1,0 +1,1 @@
+GPTSAN - 汎用スイッチトランスフォーマーをベースとした日本語言語モデル... README.md +1 -1; app.py +50 -27 ... langchainからのConversationChain、LLMChainなどのコンポーネントを使用しています... Radio(label="Translate to:", choices=[. このReadmeはInTouch HMI 2020 R2 SP1（バージョン20.1.100）に関する情報を提供します... German、Japanese、Simplified Chinese言語... normalize()メソッドは文字列のUnicode Normalization Formを返します... Langchainはこれをある程度
