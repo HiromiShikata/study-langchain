@@ -1,0 +1,11 @@
+{
+  "name": "study-langchain",
+  "version": "1.0.0",
+  "description": "The OpenAI Client is a command-line tool that provides a simple interface to generate text using OpenAI's GPT language model. It includes two main functions: `generate_text` and `generate_unittest`.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
