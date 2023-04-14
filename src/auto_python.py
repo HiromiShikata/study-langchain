@@ -3,6 +3,7 @@ import os
 import subprocess
 import sys
 from io import StringIO
+from dotenv import load_dotenv
 
 
 from langchain.agents import initialize_agent
@@ -81,7 +82,12 @@ class OldTypeScriptREPL:
         return output
 
 
-llm = OpenAI(temperature=0.0)
+load_dotenv()
+
+llm = OpenAI(
+    temperature=0.0,
+    # openai_api_key=os.getenv("OPENAI_API_KEY"),
+)
 python_repl = Tool("Python REPL",
                    PythonREPL().run,
                    """A Python Sell. Use this to execute python commands. Input should be a valid python command. 
