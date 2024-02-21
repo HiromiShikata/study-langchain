@@ -78,7 +78,7 @@ openai==0.27.2
 openapi-schema-pydantic==1.2.4
 orjson==3.8.10
 packaging==23.0
-paramiko==2.6.0
+paramiko==3.4.0
 pexpect==4.6.0
 Pillow==7.0.0
 pinecone-client==2.2.1
