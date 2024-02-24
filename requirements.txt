@@ -46,7 +46,7 @@ googleapis-common-protos==1.62.0
 greenlet==3.0.3
 gTTS==2.5.1
 httplib2==0.22.0
-idna==2.10
+idna==3.6
 Jinja2==2.11.3
 jmespath==0.10.0
 keyring==18.0.1
