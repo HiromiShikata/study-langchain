@@ -32,7 +32,7 @@ dnspython==2.6.1
 docker==7.0.0
 docutils==0.20.1
 duckduckgo-search==4.5.0
-duplicity==0.8.23
+duplicity==2.2.2
 entrypoints==0.4
 fasteners==0.19
 flake8==6.1.0
