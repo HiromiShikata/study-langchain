@@ -35,7 +35,7 @@ duckduckgo-search==4.5.0
 duplicity==2.2.2
 entrypoints==0.4
 fasteners==0.19
-flake8==6.1.0
+flake8==7.0.0
 frozenlist==1.4.1
 future==1.0.0
 google-api-core==2.17.1
