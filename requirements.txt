@@ -68,7 +68,7 @@ mccabe==0.7.0
 monotonic==1.6
 multidict==6.0.5
 mypy-extensions==1.0.0
-netaddr==0.10.1
+netaddr==1.2.1
 netifaces==0.11.0
 ntlm-auth==1.5.0
 numpy==1.26.4
