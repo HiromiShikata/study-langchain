@@ -128,7 +128,7 @@ six==1.16.0
 soupsieve==2.5
 SQLAlchemy==2.0.27
 ssh-import-id==5.11
-systemd-python==234
+systemd-python==235
 tenacity==8.2.3
 tiktoken==0.6.0
 tqdm==4.66.2
