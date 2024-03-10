@@ -95,7 +95,7 @@ pycups==2.0.1
 pydantic==2.6.3
 pyflakes==3.2.0
 Pygments==2.17.2
-PyGObject==3.48.0
+PyGObject==3.48.1
 PyJWT==2.8.0
 pykerberos==1.2.4
 pymacaroons==0.13.0
