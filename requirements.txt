@@ -126,7 +126,7 @@ selinux==3.0
 simplejson==3.19.2
 six==1.16.0
 soupsieve==2.5
-SQLAlchemy==2.0.28
+SQLAlchemy==2.0.29
 ssh-import-id==5.11
 systemd-python==235
 tenacity==8.2.3
