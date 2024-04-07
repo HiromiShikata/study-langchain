@@ -31,7 +31,7 @@ distro-info===0.23ubuntu1
 dnspython==2.6.1
 docker==7.0.0
 docutils==0.20.1
-duckduckgo-search==5.2.2
+duckduckgo-search==5.3.0
 duplicity==2.2.3
 entrypoints==0.4
 fasteners==0.19
