@@ -20,7 +20,7 @@ click==8.1.7
 colorama==0.4.6
 command-not-found==0.3
 coverage==7.5.1
-cryptography==42.0.5
+cryptography==42.0.6
 cssselect==1.2.0
 cupshelpers==1.0
 dataclasses-json==0.6.5
@@ -131,7 +131,7 @@ ssh-import-id==5.11
 systemd-python==235
 tenacity==8.2.3
 tiktoken==0.6.0
-tqdm==4.66.3
+tqdm==4.66.4
 typing-extensions==4.11.0
 typing-inspect==0.9.0
 ubuntu-advantage-tools==8001
