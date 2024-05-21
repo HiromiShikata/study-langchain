@@ -114,7 +114,7 @@ readability-lxml==0.8.1
 redis==5.0.4
 regex==2024.5.15
 reportlab==4.2.0
-requests==2.31.0
+requests==2.32.0
 requests-kerberos==0.14.0
 requests-ntlm==1.2.0
 requests-unixsocket==0.3.0
