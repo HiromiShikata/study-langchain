@@ -132,7 +132,7 @@ systemd-python==235
 tenacity==8.3.0
 tiktoken==0.7.0
 tqdm==4.66.4
-typing-extensions==4.12.0
+typing-extensions==4.12.1
 typing-inspect==0.9.0
 ubuntu-advantage-tools==8001
 ubuntu-drivers-common==0.0.0
