@@ -6,11 +6,11 @@ apturl==0.5.2
 argcomplete==3.3.0
 async-timeout==4.0.3
 attrs==23.2.0
-awscli==1.32.113
+awscli==1.32.117
 bcrypt==4.1.3
 beautifulsoup4==4.12.3
 blinker==1.8.2
-botocore==1.34.113
+botocore==1.34.117
 Brlapi==0.7.0
 cachetools==5.3.3
 certifi==2024.2.2
@@ -19,7 +19,7 @@ charset-normalizer==3.3.2
 click==8.1.7
 colorama==0.4.6
 command-not-found==0.3
-coverage==7.5.2
+coverage==7.5.3
 cryptography==42.0.7
 cssselect==1.2.0
 cupshelpers==1.0
@@ -31,7 +31,7 @@ distro-info===0.23ubuntu1
 dnspython==2.6.1
 docker==7.1.0
 docutils==0.21.2
-duckduckgo-search==6.1.1
+duckduckgo-search==6.1.4
 duplicity==2.2.4
 entrypoints==0.4
 fasteners==0.19
@@ -39,7 +39,7 @@ flake8==7.0.0
 frozenlist==1.4.1
 future==1.0.0
 google-api-core==2.19.0
-google-api-python-client==2.130.0
+google-api-python-client==2.131.0
 google-auth==2.29.0
 google-auth-httplib2==0.2.0
 googleapis-common-protos==1.63.0
@@ -68,13 +68,13 @@ mccabe==0.7.0
 monotonic==1.6
 multidict==6.0.5
 mypy-extensions==1.0.0
-netaddr==1.2.1
+netaddr==1.3.0
 netifaces==0.11.0
 ntlm-auth==1.5.0
 numpy==1.26.4
 oauthlib==3.2.2
 olefile==0.47
-openai==1.30.3
+openai==1.30.5
 openapi-schema-pydantic==1.2.4
 orjson==3.10.3
 packaging==24.0
@@ -92,7 +92,7 @@ pycairo==1.26.0
 pycodestyle==2.11.1
 pycrypto==2.6.1
 pycups==2.0.4
-pydantic==2.7.1
+pydantic==2.7.2
 pyflakes==3.2.0
 Pygments==2.18.0
 PyGObject==3.48.2
@@ -114,7 +114,7 @@ readability-lxml==0.8.1
 redis==5.0.4
 regex==2024.5.15
 reportlab==4.2.0
-requests==2.32.2
+requests==2.32.3
 requests-kerberos==0.14.0
 requests-ntlm==1.2.0
 requests-unixsocket==0.3.0
