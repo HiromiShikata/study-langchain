@@ -13,7 +13,7 @@ blinker==1.8.2
 botocore==1.34.117
 Brlapi==0.7.0
 cachetools==5.3.3
-certifi==2024.2.2
+certifi==2024.6.2
 chardet==5.2.0
 charset-normalizer==3.3.2
 click==8.1.7
