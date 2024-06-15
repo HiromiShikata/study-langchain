@@ -35,7 +35,7 @@ duckduckgo-search==6.1.6
 duplicity==3.0.0
 entrypoints==0.4
 fasteners==0.19
-flake8==7.0.0
+flake8==7.1.0
 frozenlist==1.4.1
 future==1.0.0
 google-api-core==2.19.0
@@ -89,7 +89,7 @@ psutil==5.9.8
 pyasn1==0.6.0
 pyasn1-modules==0.4.0
 pycairo==1.26.0
-pycodestyle==2.11.1
+pycodestyle==2.12.0
 pycrypto==2.6.1
 pycups==2.0.4
 pydantic==2.7.4
