@@ -6,11 +6,11 @@ apturl==0.5.2
 argcomplete==3.4.0
 async-timeout==4.0.3
 attrs==23.2.0
-awscli==1.33.22
+awscli==1.33.26
 bcrypt==4.1.3
 beautifulsoup4==4.12.3
 blinker==1.8.2
-botocore==1.34.140
+botocore==1.34.144
 Brlapi==0.7.0
 cachetools==5.3.3
 certifi==2024.7.4
@@ -19,7 +19,7 @@ charset-normalizer==3.3.2
 click==8.1.7
 colorama==0.4.6
 command-not-found==0.3
-coverage==7.5.4
+coverage==7.6.0
 cryptography==42.0.8
 cssselect==1.2.0
 cupshelpers==1.0
@@ -31,7 +31,7 @@ distro-info===0.23ubuntu1
 dnspython==2.6.1
 docker==7.1.0
 docutils==0.21.2
-duckduckgo-search==6.1.9
+duckduckgo-search==6.1.12
 duplicity==3.0.0
 entrypoints==0.4
 fasteners==0.19
@@ -39,8 +39,8 @@ flake8==7.1.0
 frozenlist==1.4.1
 future==1.0.0
 google-api-core==2.19.1
-google-api-python-client==2.136.0
-google-auth==2.31.0
+google-api-python-client==2.137.0
+google-auth==2.32.0
 google-auth-httplib2==0.2.0
 googleapis-common-protos==1.63.2
 greenlet==3.0.3
@@ -50,7 +50,7 @@ idna==3.7
 Jinja2==3.1.4
 jmespath==1.0.1
 keyring==25.2.1
-langchain==0.2.6
+langchain==0.2.7
 language-selector==0.1
 launchpadlib==1.11.0
 lazr.restfulclient==0.14.6
@@ -74,7 +74,7 @@ ntlm-auth==1.5.0
 numpy==2.0.0
 oauthlib==3.2.2
 olefile==0.47
-openai==1.35.10
+openai==1.35.13
 openapi-schema-pydantic==1.2.4
 orjson==3.10.6
 packaging==24.1
