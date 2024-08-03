@@ -129,7 +129,7 @@ soupsieve==2.5
 SQLAlchemy==2.0.31
 ssh-import-id==5.11
 systemd-python==235
-tenacity==8.5.0
+tenacity==9.0.0
 tiktoken==0.7.0
 tqdm==4.66.4
 typing-extensions==4.12.2
