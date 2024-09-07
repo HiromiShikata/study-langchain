@@ -6,11 +6,11 @@ apturl==0.5.2
 argcomplete==3.5.0
 async-timeout==4.0.3
 attrs==24.2.0
-awscli==1.34.10
+awscli==1.34.14
 bcrypt==4.2.0
 beautifulsoup4==4.12.3
 blinker==1.8.2
-botocore==1.35.10
+botocore==1.35.14
 Brlapi==0.7.0
 cachetools==5.5.0
 certifi==2024.8.30
@@ -39,7 +39,7 @@ flake8==7.1.1
 frozenlist==1.4.1
 future==1.0.0
 google-api-core==2.19.2
-google-api-python-client==2.143.0
+google-api-python-client==2.144.0
 google-auth==2.34.0
 google-auth-httplib2==0.2.0
 googleapis-common-protos==1.65.0
@@ -50,7 +50,7 @@ idna==3.8
 Jinja2==3.1.4
 jmespath==1.0.1
 keyring==25.3.0
-langchain==0.2.15
+langchain==0.2.16
 language-selector==0.1
 launchpadlib==2.0.0
 lazr.restfulclient==0.14.6
@@ -71,10 +71,10 @@ mypy-extensions==1.0.0
 netaddr==1.3.0
 netifaces==0.11.0
 ntlm-auth==1.5.0
-numpy==2.1.0
+numpy==2.1.1
 oauthlib==3.2.2
 olefile==0.47
-openai==1.43.0
+openai==1.44.0
 openapi-schema-pydantic==1.2.4
 orjson==3.10.7
 packaging==24.1
@@ -88,11 +88,11 @@ protobuf==5.28.0
 psutil==6.0.0
 pyasn1==0.6.0
 pyasn1-modules==0.4.0
-pycairo==1.26.1
+pycairo==1.27.0
 pycodestyle==2.12.1
 pycrypto==2.6.1
 pycups==2.0.4
-pydantic==2.8.2
+pydantic==2.9.0
 pyflakes==3.2.0
 Pygments==2.18.0
 PyGObject==3.48.2
@@ -126,7 +126,7 @@ selinux==3.0
 simplejson==3.19.3
 six==1.16.0
 soupsieve==2.6
-SQLAlchemy==2.0.32
+SQLAlchemy==2.0.34
 ssh-import-id==5.11
 systemd-python==235
 tenacity==9.0.0
@@ -146,4 +146,4 @@ wadllib==1.3.6
 websocket-client==1.8.0
 xkit==0.0.0
 xmltodict==0.13.0
-yarl==1.9.7
+yarl==1.9.11
