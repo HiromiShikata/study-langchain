@@ -146,4 +146,4 @@ wadllib==2.0.0
 websocket-client==1.8.0
 xkit==0.0.0
 xmltodict==0.14.1
-yarl==1.15.1
+yarl==1.15.2
