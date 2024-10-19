@@ -76,7 +76,7 @@ oauthlib==3.2.2
 olefile==0.47
 openai==1.52.0
 openapi-schema-pydantic==1.2.4
-orjson==3.10.7
+orjson==3.10.9
 packaging==24.1
 paramiko==3.5.0
 pexpect==4.9.0
