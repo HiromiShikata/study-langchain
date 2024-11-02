@@ -4,7 +4,7 @@ ansible==10.5.0
 apache-libcloud==3.8.0
 apturl==0.5.2
 argcomplete==3.5.1
-async-timeout==4.0.3
+async-timeout==5.0.0
 attrs==24.2.0
 awscli==1.35.20
 bcrypt==4.2.0
