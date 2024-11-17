@@ -32,7 +32,7 @@ dnspython==2.7.0
 docker==7.1.0
 docutils==0.21.2
 duckduckgo-search==6.3.5
-duplicity==3.0.2
+duplicity==3.0.3
 entrypoints==0.4
 fasteners==0.19
 flake8==7.1.1
@@ -146,4 +146,4 @@ wadllib==2.0.0
 websocket-client==1.8.0
 xkit==0.0.0
 xmltodict==0.14.2
-yarl==1.17.1
+yarl==1.17.2
