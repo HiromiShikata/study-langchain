@@ -19,7 +19,7 @@ charset-normalizer==3.4.0
 click==8.1.7
 colorama==0.4.6
 command-not-found==0.3
-coverage==7.6.7
+coverage==7.6.8
 cryptography==43.0.3
 cssselect==1.2.0
 cupshelpers==1.0
@@ -50,7 +50,7 @@ idna==3.10
 Jinja2==3.1.4
 jmespath==1.0.1
 keyring==25.5.0
-langchain==0.3.7
+langchain==0.3.8
 language-selector==0.1
 launchpadlib==2.0.0
 lazr.restfulclient==0.14.6
@@ -76,7 +76,7 @@ oauthlib==3.2.2
 olefile==0.47
 openai==1.55.0
 openapi-schema-pydantic==1.2.4
-orjson==3.10.11
+orjson==3.10.12
 packaging==24.2
 paramiko==3.5.0
 pexpect==4.9.0
