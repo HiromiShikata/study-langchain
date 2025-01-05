@@ -94,7 +94,7 @@ pycrypto==2.6.1
 pycups==2.0.4
 pydantic==2.10.4
 pyflakes==3.2.0
-Pygments==2.18.0
+Pygments==2.19.0
 PyGObject==3.50.0
 PyJWT==2.10.1
 pykerberos==1.2.4
